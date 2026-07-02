@@ -2,3 +2,10 @@ streamlit
 openai
 pandas
 pillow
+openai
+python-dotenv
+easyocr
+opencv-python-headless
+feedparser
+beautifulsoup4
+requests
